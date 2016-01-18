@@ -1,6 +1,6 @@
 # battleship
 
-A Clojure library designed to ... well, that part is up to you.
+A 90 minute hack of a multiplayer battleship game
 
 ## Usage
 
